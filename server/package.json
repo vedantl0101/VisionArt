@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "GFG",
+  "author": "Vedantl0101",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^2.0.0",
@@ -17,5 +17,8 @@
     "mongoose": "^8.1.1",
     "nodemon": "^3.0.3",
     "openai": "^3.1.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.14.5"
   }
 }
